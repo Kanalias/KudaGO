@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#000</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="snack_bar">#96E53E39</color>
+    <color name="city_name">#E62D37</color>
+    <color name="warning_access_internet">#85000000</color>
 </resources>
